@@ -1,1 +1,1 @@
-# unplaced-vibe-coding-project
+# ArenaIQ
